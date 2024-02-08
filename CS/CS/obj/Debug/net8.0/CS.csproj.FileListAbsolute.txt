@@ -1,0 +1,14 @@
+/Users/gokhankara/Desktop/C#/CS/CS/bin/Debug/net8.0/CS
+/Users/gokhankara/Desktop/C#/CS/CS/bin/Debug/net8.0/CS.deps.json
+/Users/gokhankara/Desktop/C#/CS/CS/bin/Debug/net8.0/CS.runtimeconfig.json
+/Users/gokhankara/Desktop/C#/CS/CS/bin/Debug/net8.0/CS.dll
+/Users/gokhankara/Desktop/C#/CS/CS/bin/Debug/net8.0/CS.pdb
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/CS.AssemblyInfoInputs.cache
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/CS.AssemblyInfo.cs
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/CS.csproj.CoreCompileInputs.cache
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/CS.dll
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/refint/CS.dll
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/CS.pdb
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/CS.genruntimeconfig.cache
+/Users/gokhankara/Desktop/C#/CS/CS/obj/Debug/net8.0/ref/CS.dll
